@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <?php
 class Drugstore extends CI_Controller {
 
@@ -115,7 +114,6 @@ class Drugstore extends CI_Controller {
 }
 
 ?>
-=======
 <!-- Controller -->
 
 <?php
@@ -126,4 +124,4 @@ class Drugstore extends CI_Controller {
         $this->load->view('drugstore\home');
     }
 }
->>>>>>> b1d6c11b4f036029a229c1a59c805ad5734246d4
+
