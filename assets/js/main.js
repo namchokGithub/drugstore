@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 $(document).ready(function () {
 	$('#ul-nav li').click(function (e) {
@@ -20,6 +21,8 @@ $(document).ready(function () {
 
 });
  
+=======
+>>>>>>> b1d6c11b4f036029a229c1a59c805ad5734246d4
  AOS.init({
  	duration: 800,
  	easing: 'slide',
@@ -114,6 +117,10 @@ jQuery(document).ready(function($) {
       } else {
         $this.addClass('active');
       }
+<<<<<<< HEAD
+=======
+      e.preventDefault();  
+>>>>>>> b1d6c11b4f036029a229c1a59c805ad5734246d4
       
     });
 
@@ -130,6 +137,10 @@ jQuery(document).ready(function($) {
 
 		$('body').on('click', '.js-menu-toggle', function(e) {
 			var $this = $(this);
+<<<<<<< HEAD
+=======
+			e.preventDefault();
+>>>>>>> b1d6c11b4f036029a229c1a59c805ad5734246d4
 
 			if ( $('body').hasClass('offcanvas-menu') ) {
 				$('body').removeClass('offcanvas-menu');

@@ -28,12 +28,15 @@
     a:link {
         color: black;
     }
+
     a:visited {
         color: black;
     }
+
     a:hover {
         color: #EDBDC5;
     }
+
     .btn-warning {
         color: black !important;;
     }
@@ -80,13 +83,13 @@
 
                 <div class="main-nav d-none d-lg-block">
                     <nav class="site-navigation text-right text-md-center" role="navigation">
-                    <ul id="ul-nav" class="site-menu js-clone-nav d-none d-lg-block">
-                        <li class="inactive"><a href="<?php echo site_url('Drugstore');?>">หน้าแรก</a></li>
-                        <li class="active"><a href="#employee_section">พนักงาน</a></li>
-                        <li class="inactive"><a href="#schedule_section">ตารางนัด</a></li>
-                        <li class="inactive"><a href="#about-section">เกี่ยวกับเรา</a></li>
-                        <li class="inactive"><a href="#contact-section">ติดต่อ</a></li>
-                    </ul>
+                        <ul id="ul-nav" class="site-menu js-clone-nav d-none d-lg-block">
+                            <li class="inactive"><a href="<?php echo site_url('Drugstore');?>">หน้าแรก</a></li>
+                            <li class="active"><a href="#employee_section">พนักงาน</a></li>
+                            <li class="inactive"><a href="#schedule_section">ตารางนัด</a></li>
+                            <li class="inactive"><a href="#about-section">เกี่ยวกับเรา</a></li>
+                            <li class="inactive"><a href="#contact-section">ติดต่อ</a></li>
+                        </ul>
                     </nav>
                 </div>
 

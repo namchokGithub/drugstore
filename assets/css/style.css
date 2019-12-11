@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .btn-pink {
   color: #212529 !important;
   background-color: #ECCCD2;
@@ -19,6 +20,8 @@
 }
 
 
+=======
+>>>>>>> b1d6c11b4f036029a229c1a59c805ad5734246d4
 .btn.btn-ds-white {
   background: white !important;
   color: black;
@@ -28,6 +31,7 @@
   color: white;
   font-size: xx-large;
 }
+<<<<<<< HEAD
 .bg-ds-pink{
   background-color: pink !important;
 }
@@ -42,6 +46,8 @@ ul li:before{
 th {
   font-weight: bold !important;
 }    
+=======
+>>>>>>> b1d6c11b4f036029a229c1a59c805ad5734246d4
 
 /* Base */
 body {
@@ -209,8 +215,12 @@ a {
 .site-navbar {
   margin-bottom: 0px;
   z-index: 1999;
+<<<<<<< HEAD
   /* position: relative; */
   position: fixed;
+=======
+  position: relative;
+>>>>>>> b1d6c11b4f036029a229c1a59c805ad5734246d4
   top: 0;
   width: 100%;
   background: #fff; }
@@ -770,9 +780,14 @@ a {
     text-align: center;
     vertical-align: middle;
     color: #212529; }
+<<<<<<< HEAD
   /* .site-blocks-table tbody tr:first-child td {
     border-top: 1px solid #51eaea !important; 
   } */
+=======
+  .site-blocks-table tbody tr:first-child td {
+    border-top: 1px solid #51eaea !important; }
+>>>>>>> b1d6c11b4f036029a229c1a59c805ad5734246d4
 
 .site-block-order-table th {
   border-top: none !important;
@@ -888,9 +903,15 @@ a {
     height: 20px;
     border-radius: 50%;
     line-height: 20px;
+<<<<<<< HEAD
     font-size: 12px;
     color: #212529 !important;
     background-color: #ECCCD2;
+=======
+    color: #000;
+    font-size: 12px;
+    background: #51eaea;
+>>>>>>> b1d6c11b4f036029a229c1a59c805ad5734246d4
     right: -5px; }
 
 .search-wrap {
@@ -1151,7 +1172,11 @@ a {
     left: 0;
     right: 0;
     bottom: 0;
+<<<<<<< HEAD
     background: rgba(237, 189, 197, 1);
+=======
+    background: rgba(81, 234, 234, 0.9);
+>>>>>>> b1d6c11b4f036029a229c1a59c805ad5734246d4
     z-index: 1; }
   .bg-image > .container {
     position: relative;

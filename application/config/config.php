@@ -23,7 +23,11 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 | a PHP script and you can easily do that on your own.
 |
 */
+<<<<<<< HEAD
 $config['base_url'] = 'http://localhost/drugstore/';
+=======
+$config['base_url'] = '';
+>>>>>>> b1d6c11b4f036029a229c1a59c805ad5734246d4
 
 /*
 |--------------------------------------------------------------------------
@@ -521,6 +525,9 @@ $config['rewrite_short_tags'] = FALSE;
 | Array:		array('10.0.1.200', '192.168.5.0/24')
 */
 $config['proxy_ips'] = '';
+<<<<<<< HEAD
 $config['css'] = 'http://localhost/drugstore/assets/css/';
 $config['images'] = 'http://localhost/drugstore/assets/images/';
 $config['js'] = 'http://localhost/drugstore/assets/js/';
+=======
+>>>>>>> b1d6c11b4f036029a229c1a59c805ad5734246d4
